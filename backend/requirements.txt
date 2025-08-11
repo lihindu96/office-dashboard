@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+python-dotenv # Good for managing environment variables (e.g., for Firebase credentials)
+firebase-admin
